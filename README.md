@@ -28,7 +28,7 @@ Mapping oceanographic variables using GIS and satellite data.
 Skills:
 QGIS, Geospatial Analysis
 
-### 📊 Project 5 - Capstone Project
+### 📊 Capstone Project
 Integrated climate data science workflow using ML and GIS.
 
 ## Tools
