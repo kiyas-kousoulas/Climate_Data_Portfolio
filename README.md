@@ -1,36 +1,34 @@
 # Climate Data Science Portfolio
 
-This repository contains projects focused on climate and ocean data science.
+This portfolio showcases environmental data science projects focused on oceanographic and climate datasets. Projects combine satellite data analysis, machine learning, and geospatial visualization to explore patterns in marine ecosystems and climate systems.
 
-The goal is to explore environmental datasets, build predictive models, and create geospatial visualizations relevant to climate technology and ocean science.
+## Featured Projects 
 
-## Project Overview
-
-### Project 1 — Phytoplankton Data Exploration
-Satellite chlorophyll analysis and ocean productivity trends.
+### 🌊 Project 1 - Phytoplankton Satellite Analysis
+Exploratory analysis of satellite-derived chlorophyll and sea surface temperature data.
 
 Skills:
-Python, Pandas, Data Visualization
+Python, Pandas, Matplotlib, Satellite Data Analysis
 
-### Project 2 — Climate Dataset Integration
-Combining oceanographic datasets including SST, salinity, and chlorophyll.
-
-Skills:
-SQL, Data Cleaning, Data Integration
-
-### Project 3 — Machine Learning Modeling
-Predicting phytoplankton bloom events.
+### 🌍 Project 2 - Climate Dataset Integration
+Combining multiple oceanographic datasets including temperature, salinity, and alkalinity.
 
 Skills:
-Machine Learning, Regression, Model Evaluation
+Data cleaning, SQL, data integration
 
-### Project 4 — GIS Climate Mapping
-Spatial analysis of oceanographic patterns.
+### 🤖 Project 3 - Machine Learning Bloom Prediction
+Predictive modeling of phytoplankton bloom conditions using environmental variables.
+
+Skills:
+Scikit-learn, regression, model evaluation
+
+### 🛰 Project 4 - Geospatial Ocean Mapping
+Mapping oceanographic variables using GIS and satellite data.
 
 Skills:
 QGIS, Geospatial Analysis
 
-### Capstone Project
+### 📊 Project 5 - Capstone Project
 Integrated climate data science workflow using ML and GIS.
 
 ## Tools
