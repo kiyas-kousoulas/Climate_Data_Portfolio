@@ -1,9 +1,7 @@
 # Phytoplankton Data Analysis: Nutrient Impacts on Chlorophyll-a
 
 ## Overview
-This project analyzes how nutrient enrichment (nitrogen, phosphorus, and silicon) influences phytoplankton biomass, using chlorophyll-a concentrations.
-
-The goal is to explore treatment-based differences, temporal trends, and relationships between nutrient inputs and phytoplankton productivity.
+This project analyzes how nutrient enrichment (nitrogen, phosphorus, and silicon) influences phytoplankton biomass, using chlorophyll-a concentrations. The goal is to explore treatment-based differences, temporal trends, and relationships between nutrient inputs and phytoplankton productivity.
 
 ---
 
@@ -37,7 +35,6 @@ To evaluate how different nutrient treatments affect chlorophyll-a concentration
 - Correlation heatmap  
 - Time-series plot of chlorophyll observations  
 - Yearly average chlorophyll trends  
-- Boxplot of chlorophyll by treatment  
 
 ---
 
@@ -68,8 +65,4 @@ To evaluate how different nutrient treatments affect chlorophyll-a concentration
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
-
----
-
-## Project Structure
+- Seaborn
