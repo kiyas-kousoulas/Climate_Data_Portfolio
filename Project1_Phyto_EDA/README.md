@@ -10,32 +10,31 @@ To evaluate how different nutrient treatments affect chlorophyll-a concentration
 
 ---
 
+## Methods
+
+### _Part 1: Data Standardization_
+- Import data
+- Renamed columns for clarity and consistency  
+- Converted dates to datetime format  
+- Numeric cleaning 
+- Data quality check
+
+### _Part 2: Exploratory Analysis_
+- Grouped data by treatment to compute summary statistics  
+- Evaluated correlations between nutrient inputs and chlorophyll  
+- Aggregated yearly averages to analyze temporal trends  
+- Correlation heatmap  
+- Time-series plot of chlorophyll observations  
+- Yearly average chlorophyll trends   
+
+---
+
 ## Dataset
 - Source: https://doi.org/10.5061/dryad.4fp90  
 - Contains experimental data on:
   - Nutrient treatments (N, P, Si)
   - Chlorophyll-a concentrations
   - Sampling dates and locations  
-
----
-
-## Methods
-
-### Data Processing
-- Renamed columns for clarity and consistency  
-- Converted dates to datetime format  
-- Cleaned chlorophyll values and handled missing data  
-
-### Analysis
-- Grouped data by treatment to compute summary statistics  
-- Evaluated correlations between nutrient inputs and chlorophyll  
-- Aggregated yearly averages to analyze temporal trends  
-
-### Visualization
-- Correlation heatmap  
-- Time-series plot of chlorophyll observations  
-- Yearly average chlorophyll trends  
-
 ---
 
 ## Key Findings
